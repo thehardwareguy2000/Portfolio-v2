@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "description_header": "Hallo",
+      "description": "👋 Ich bin Gavin Correia. Dateningenieur in der Finanzbranche mit mehr als zwei Jahren Erfahrung, wo ich über Fachkenntnisse in ETL, Python-Skripting und Informatica verfüge. Ich absolviere einen Master in Daten- und Wissenstechnik mit Kenntnissen in maschinellem Lernen, AWS und Cybersicherheit.",
+      "section_name": {
+        "about": "Über mich",
+        "projects": "Projekte",
+        "skills": "Fähigkeiten",
+        "experience": "Erfahrung"
+      }
+    },
+    "projects": [
+      {
+        "title": "Use of AI for cyber attack prevention",
+        "startDate": "2020",
+        "description": "Entwickelte ein Intrusion-Detection-System, das maschinelle Lernalgorithmen nutzt, um Phishing-Angriffe und SQL-Injection auf einem Server zu erkennen und zu verhindern.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain ",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Emotion Recognition via Speech ",
+        "startDate": "2019 -2020",
+        "description": "Web-App, die Emotionen aus der Sprache eines Benutzers erkennt. Das ML-Modell im Backend-Flask-Server erkennt das Geschlecht und den emotionalen Zustand des Benutzers. Das Modell kann 7 Emotionen erkennen, darunter Traurigkeit, Glück, Neutralität, Wut, Angst, Aufregung usw.",
+        "images": [
+          "images/portfolio/photography/p1.png"
+        ],
+        "url": "https://github.com/thehardwareguy2000/Speech-to-emotion-detection",
+        "technologies": [
+          {
+            "class": "devicon-python-plain ",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Hotel Website hosting using AWS ",
+        "startDate": "2021",
+        "note": "Hinweis: Ich habe die Instanz geschlossen, daher ist die Website nicht mehr aktiv",
+        "description": "Hostete eine Website auf AWS mit kostenlosen Instanzen wie AWS S3, AWS DynamoDB, AWS API Gateway und AWS Lambda.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg"
+        ],
+        "url": "http://jigzaw.com.s3-website-us-east-1.amazonaws.com/index.html",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "BNP Paribas",
+        "title": "Data Engineer",
+        "years": "12.2022 - 09.2023",
+        "class":"fas fa-analytics experience-icon",
+        "mainTech": [
+          "AWS and Data Analysis"
+        ],
+        "technologies": [
+          "AWS",
+          "Power BI",
+          "Big Data",
+          "SQL",
+          "Informatica Powercenter"
+        ]
+      },
+      {
+        "company": "BNP Paribas",
+        "title": "ETL Developer",
+        "years": "09.2021 - 11.2022",
+        "class": "fas fa-database experience-icon",
+        "mainTech": [
+          "Informatica Powercenter"
+        ],
+        "technologies": [
+          "SQL",
+          "Informatica Designer",
+          "Informatica Repository Manager",
+          "Workflow Manager ",
+          "Informatica Workflow Montior",
+          "Python",
+          "Shell Script",
+          "Data Analysis",
+          "Oracle"
+        ]
+      }
+    ]
+  }

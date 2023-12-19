@@ -1,0 +1,107 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Gavin Correia. Data Engineer in the financial industry with 2+ years experience from where I have expertise in ETL, Python scripting, and Informatica. I am Pursuing a master's in Data and Knowledge Engineering, with skills in machine learning, AWS, and cybersecurity. ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Use of AI for cyber attack prevention",
+        "startDate": "2020",
+        "description": "Developed an intrusion detection system that uses machine learning algorithms to detect and prevent Phishing attacks and SQL injection on a server.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain ",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Emotion Recognition via Speech ",
+        "startDate": "2019 -2020",
+        "description": "Web app that detects emotions from a user's speech. The ML model in the backend Flask server detects the user's gender and emotional state. The model can recognize 7 emotions including sadness, happiness, neutrality, anger, fear, excitement, etc.",
+        "images": [
+          "images/portfolio/photography/p1.png"
+        ],
+        "url": "https://github.com/thehardwareguy2000/Speech-to-emotion-detection",
+        "technologies": [
+          {
+            "class": "devicon-python-plain ",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": " Hotel Website hosting using AWS ",
+        "startDate": "2021",
+        "note": "Note: I have closed the instance thus the website is no longer active",
+        "description" :" Hosted a website on AWS using free instances like :AWS S3, AWS DynamoDB, AWS API Gateway, AWS Lambda",
+        "images": [
+          "images/portfolio/adventure/p1.jpg"
+        ],
+        "url": "http://jigzaw.com.s3-website-us-east-1.amazonaws.com/index.html",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      
+      {
+        "company": "BNP Paribas",
+        "title": "Data Engineer",
+        "years": "12.2022 - 09.2023",
+        "class":"fas fa-analytics experience-icon",
+        "mainTech": [
+          "AWS and Data Analysis"
+        ],
+        "technologies": [
+          "AWS",
+          "Power BI",
+          "Big Data",
+          "SQL",
+          "Informatica Powercenter"
+        ]
+      },
+      {
+        "company": "BNP Paribas",
+        "title": "ETL Developer",
+        "years": "09.2021 - 11.2022",
+        "class": "fas fa-database experience-icon",
+        "mainTech": [
+          "Informatica Powercenter"
+        ],
+        "technologies": [
+          "SQL",
+          "Informatica Designer",
+          "Informatica Repository Manager",
+          "Workflow Manager ",
+          "Informatica Workflow Montior",
+          "Python",
+          "Shell Script",
+          "Data Analysis",
+          "Oracle"
+        ]
+      }
+    ]
+  }
